@@ -7,3 +7,4 @@ Git研修用リポジトリ
 - aaa
 :bug:
 XXXX
+YYYY
